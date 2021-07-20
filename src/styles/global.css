@@ -1,0 +1,109 @@
+html {
+    background-image: url(../images/Background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif, serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: rgb(27, 27, 27);
+}
+
+.pageStyles {
+    color: rgb(27, 27, 27);
+    padding: 50px;
+}
+
+.headingStyles {
+    margin-top: 0;
+    margin-bottom: 64;
+    max-width: 320;
+    text-transform: uppercase;
+}
+
+#catstructionheading {
+    color: white;
+}
+
+
+.rowContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.colContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.backgroundBox {
+    border-radius: 25px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.644);
+}
+
+.button {
+    border-radius: 12px;
+    padding: 20px;
+    background-color: #475389;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+button:disabled,
+button[disabled] {
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+}
+
+.floatingButton {
+    position: fixed;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    left: 20px;
+    top: 50px;
+    z-index: 100;
+}
+
+input[type=text] {
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.rounded-input {
+    border: 0;
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input[type=text] {
+    padding: 10px;
+    border: 0;
+    box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 98%;
+    resize: vertical;
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    margin: 10px 0;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.06);
+    height: 150px;
+}
