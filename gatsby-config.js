@@ -1,6 +1,7 @@
 module.exports = {
-  siteMetadata: {
-    title: "YarnGuardians",
-  },
-  plugins: [`gatsby-plugin-react-helmet`],
+    siteMetadata: {
+        title: "YarnGuardians",
+        siteUrl: "https://www.yarn-guardians.de"
+    },
+    plugins: [`gatsby-plugin-react-helmet`, `gatsby-plugin-cname`],
 };
