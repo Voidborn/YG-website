@@ -27,8 +27,8 @@ const Footer = () => {
         <main>
             <div style={Footerbox} className="colContainer">
                 <div className="rowContainer" style={{justifyContent:"center"}}>
-                    <Link to={`/imprint/`} style={Footerlink}>Impressum</Link>
-                    <Link to={`/dataprotection/`} style={Footerlink}>Datenschutz</Link>
+                    <Link rel={`nofollow`} to={`/imprint/`} style={Footerlink}>Impressum</Link>
+                    <Link rel={`nofollow`} to={`/dataprotection/`} style={Footerlink}>Datenschutz</Link>
                 </div>
                 
             </div>

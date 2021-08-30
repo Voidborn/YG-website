@@ -1,9 +1,14 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { Helmet } from 'react-helmet'
 
 //markup
 const Imprint = () => {
     return (
+        <>
+        <Helmet>
+        <meta name={`robots`} content={`noindex, nofollow`} />
+        </Helmet>
         <main className="pageStyles rowContainer">
             <div className="floatingButton">
                 <Link to={`/`} className="button">Home</Link>
@@ -75,6 +80,7 @@ const Imprint = () => {
                     
             </div>
         </main>
+        </>
     )
 }
 

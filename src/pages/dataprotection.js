@@ -1,8 +1,13 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { Helmet } from 'react-helmet'
 
 const DataProtection = () => {
     return (
+        <>
+        <Helmet>
+        <meta name={`robots`} content={`noindex, nofollow`} />
+        </Helmet>
         <main className="pageStyles rowContainer">
             <title>Data Protection</title>
             <div className="floatingButton">
@@ -321,6 +326,7 @@ const DataProtection = () => {
             </div>
 
         </main>
+        </>
     )
 }
 
