@@ -1,15 +1,28 @@
+body {
+    margin: 0px;
+}
+
 html {
     background-image: url(../images/Background.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family: 'Roboto', sans-serif, serif;
+    font-family: 'Quicksand', sans-serif;
     margin: 0px;
     padding: 0px;
 }
 
 a {
     color: rgb(27, 27, 27);
+}
+
+h1,h2{
+    color: #393c4b;
+}
+
+h1{
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
 }
 
 .pageStyles {
@@ -24,8 +37,11 @@ a {
     text-transform: uppercase;
 }
 
+
 #catstructionheading {
     color: white;
+    font-weight: normal;
+    font-size: min(max(4vw, 1rem), 3rem);
 }
 
 
@@ -67,11 +83,9 @@ button[disabled] {
 
 .floatingButton {
     position: fixed;
-    margin: 0px;
-    padding: 0px;
     float: right;
-    left: 20px;
-    top: 50px;
+    right: 20px;
+    bottom: 50px;
     z-index: 100;
 }
 
