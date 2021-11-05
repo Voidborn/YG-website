@@ -27,6 +27,7 @@ const Footer = () => {
                 <div className="rowContainer" style={{ justifyContent: "center" }}>
                     <Link rel={`nofollow`} to={`/imprint/`} style={Footerlink}>Impressum</Link>
                     <Link rel={`nofollow`} to={`/dataprotection/`} style={Footerlink}>Datenschutz</Link>
+                    <Link rel={`nofollow`} to={`/presskit/`} style={Footerlink}>Presse</Link>
                 </div>
 
             </div>

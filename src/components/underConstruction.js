@@ -28,22 +28,22 @@ const UnderConstruction = () => {
                     <h1 className="headingStyles" id="catstructionheading">Page is under <b style={{ fontWeight: "bold" }} >cat</b>struction...</h1>
                 </div>
                 <div className="rowContainer">
-                    <h3 style={{ color: "white" }}>Follow us on social media:</h3>
+                    <h2 style={{ color: "white" }}>Follow us on social media:</h2>
                 </div>
                 <div className="rowContainer">
                     <div className="colContainer">
                         <a href="https://www.instagram.com/yarnguardians/">
-                            <img src={instagramImg} alt="Instagram Link" />
+                            <img className="socialbutton" src={instagramImg} alt="Instagram Link" />
                         </a>
                     </div>
                     <div className="colContainer">
                         <a href="https://twitter.com/YarnGuardians">
-                            <img src={twitterImg} alt="Twitter Link" />
+                            <img className="socialbutton" src={twitterImg} alt="Twitter Link" />
                         </a>
                     </div>
                     <div className="colContainer">
                         <a href="https://facebook.com/YarnGuardians">
-                            <img src={facebookImg} alt="Facebook Link" />
+                            <img className="socialbutton" src={facebookImg} alt="Facebook Link" />
                         </a>
                     </div>
                 </div >
