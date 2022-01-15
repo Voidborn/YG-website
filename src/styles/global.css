@@ -77,7 +77,6 @@ h1{
 
 button:disabled,
 button[disabled] {
-    border: 1px solid #999999;
     background-color: #cccccc;
     color: #666666;
 }
@@ -88,6 +87,11 @@ button[disabled] {
     right: 20px;
     bottom: 50px;
     z-index: 100;
+}
+
+.button:hover {
+    background-color: #343c63;
+    color: #b9c6ff;
 }
 
 input[type=text] {
