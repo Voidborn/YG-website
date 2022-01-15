@@ -11,7 +11,7 @@ const Imprint = () => {
             <main className="pageStyles rowContainer">
                 <title>Impressum</title>
                 <div className="floatingButton">
-                    <Link to={`/`} className="button">Home</Link>
+                    <Link to={`/`} className="button">Zur Startseite</Link>
                 </div>
                 <div className="backgroundBox" style={{ maxWidth: "1000px" }}>
                     <h1 className="headingStyles">Impressum</h1>

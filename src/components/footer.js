@@ -10,24 +10,14 @@ const Footerbox = {
     paddingBottom: "25px",
 }
 
-const Footerlink = {
-    marginLeft: "40px",
-    marginRight: "40px",
-    marginTop: "20px",
-    marginBottom: "20px",
-    color: "white",
-    cursor: "pointer",
-    textDecoration: "none"
-}
-
 const Footer = () => {
     return (
         <main>
             <div style={Footerbox} className="colContainer">
                 <div className="rowContainer" style={{ justifyContent: "center" }}>
-                    <Link rel={`nofollow`} to={`/imprint/`} style={Footerlink}>Impressum</Link>
-                    <Link rel={`nofollow`} to={`/dataprotection/`} style={Footerlink}>Datenschutz</Link>
-                    <Link rel={`nofollow`} to={`/presskit/`} style={Footerlink}>Presse</Link>
+                    <Link rel={`nofollow`} to={`/imprint/`} className="footerlink" >Impressum</Link>
+                    <Link rel={`nofollow`} to={`/dataprotection/`} className="footerlink">Datenschutz</Link>
+                    <Link rel={`nofollow`} to={`/presskit/`} className="footerlink">Über uns</Link>
                 </div>
 
             </div>

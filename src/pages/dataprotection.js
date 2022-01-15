@@ -11,7 +11,7 @@ const DataProtection = () => {
             <main className="pageStyles rowContainer">
                 <title>Data Protection</title>
                 <div className="floatingButton">
-                    <Link to={`/`} className="button">Home</Link>
+                    <Link to={`/`} className="button">Zur Startseite</Link>
                 </div>
                 <div className="backgroundBox" style={{ maxWidth: "1000px", minWidth: "250px" }}>
                     <h1 className="headingStyles">Datenschutz</h1>

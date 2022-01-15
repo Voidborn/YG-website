@@ -16,7 +16,7 @@ a {
     color: rgb(27, 27, 27);
 }
 
-h1,h2{
+h1,h2,h3{
     color: #393c4b;
 }
 
@@ -24,6 +24,7 @@ h1{
     font-family: 'Urbanist', sans-serif;
     font-weight: bold;
 }
+
 
 .pageStyles {
     color: rgb(27, 27, 27);
@@ -126,4 +127,25 @@ textarea {
     width: 100px;
     height: auto;
     margin: 8px;
+}
+
+.socialbutton:hover {
+    filter: invert(0.35) sepia(1) saturate(0.5) hue-rotate(180deg);
+}
+
+
+.footerlink {
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: white;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: small
+}
+    
+.footerlink:hover{
+        color: #b9c6ff;
+        text-shadow:2px 0px 8px rgb(0, 0, 0);
 }

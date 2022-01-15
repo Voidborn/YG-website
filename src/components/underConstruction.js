@@ -6,29 +6,49 @@ import facebookImg from "../images/socialmedia/icons8-facebook.svg"
 import instagramImg from "../images/socialmedia/icons8-instagram.svg"
 import twitterImg from "../images/socialmedia/icons8-twitter.svg"
 
+
+const Logo = {
+    width: "100px",
+    height: "100px"
+}
+
+const SloganContainer = {
+    marginTop: "15px",
+    marginBottom: "25px"
+}
+
+const Slogan = {
+    maxHeight: "50px",
+    minWidth: "200px"
+}
+
+const SocialMediaText = {
+    color: "white",
+    textAlign: "centered"
+}
+
+const ConstructionCatsContainer = {
+    marginTop: "4rem"
+}
+
+const ConstructionCatsImage = {
+    maxWidth: "600px",
+    minWidth: "200px"
+}
+
 const UnderConstruction = () => {
     return (
         <main className="pageStyles">
             <title>Yarn Guardians</title>
             <div className="colContainer">
                 <div className="rowContainer">
-                    <img alt="Logo" style={{ width: "100px", height: "100px" }} src={logoImg} />
+                    <img alt="Logo" style={Logo} src={logoImg} />
                 </div>
-                <div className="rowContainer" style={{ marginTop: "15px", marginBottom: "25px" }} >
-                    <img alt="Slogan" style={{ maxHeight: "50px", minWidth: "200px" }} src={sloganImg} />
-                </div>
-                <div className="rowContainer">
-                    <img
-                        alt="Construction Cats"
-                        style={{ maxWidth: "600px", minWidth: "200px" }}
-                        src={constructionCats}
-                    />
+                <div className="rowContainer" style={SloganContainer} >
+                    <img alt="Slogan" style={Slogan} src={sloganImg} />
                 </div>
                 <div className="rowContainer">
-                    <h1 className="headingStyles" id="catstructionheading">Page is under <b style={{ fontWeight: "bold" }} >cat</b>struction...</h1>
-                </div>
-                <div className="rowContainer">
-                    <h2 style={{ color: "white" }}>Follow us on social media:</h2>
+                    <h2 style={SocialMediaText}>Follow us:</h2>
                 </div>
                 <div className="rowContainer">
                     <div className="colContainer">
@@ -47,8 +67,15 @@ const UnderConstruction = () => {
                         </a>
                     </div>
                 </div >
+                <div className="rowContainer" style={ConstructionCatsContainer} >
+                    <img
+                        alt="Construction Cats"
+                        style={ConstructionCatsImage}
+                        src={constructionCats}
+                    />
+                </div>
             </div>
-        </main>
+        </main >
     )
 
 }
