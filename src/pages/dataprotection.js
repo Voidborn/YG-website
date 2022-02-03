@@ -76,10 +76,10 @@ const DataProtection = () => {
                     </p>
                     <p>
                         Wir setzen für das Hosting unserer Website folgenden Dienstleister ein:<br />
-                        GitHub Inc.<br />
-                        88 Colin P Kelly Jr St<br />
-                        San Francisco, CA 94107<br />
-                        United States
+                        GitHub BV<br />
+                        Vijzelstraat 68-72<br />
+                        1017 HL Amsterdam<br />
+                        The Netherlands
                     </p>
 
                     <h2>
