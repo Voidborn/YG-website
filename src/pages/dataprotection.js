@@ -74,6 +74,14 @@ const DataProtection = () => {
                         Unser Hoster wird Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner
                         Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.
                     </p>
+                    <p>
+                        Wir setzen für das Hosting unserer Website folgenden Dienstleister ein:<br />
+                        GitHub Inc.<br />
+                        88 Colin P Kelly Jr St<br />
+                        San Francisco, CA 94107<br />
+                        United States
+                    </p>
+
                     <h2>
                         3. Allgemeine Hinweise und Pflichtinformationen
                     </h2>
