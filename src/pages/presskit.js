@@ -27,9 +27,10 @@ const Presskit = () => {
                             <p><b>E-Mail:</b> <a href={"mailto:yarn-guardians@outlook.com"}>yarn-guardians@outlook.com</a></p>
                             <p><b>Telefon:</b> <a href="tel:+4915231778275">+49 (0)152 3177 8275</a></p>
                             <p><b>Postfach:</b><br />
-                                c/o Grosch Postflex #1586<br />
-                                Emsdettener Str. 10<br />
-                                48268 Greven<br />
+                                pentapaw studios UG (haftungsbeschränkt)<br />
+                                Halbergstraße 4<br />
+                                66121 Saarbrücken<br />
+                                <br />
                             </p>
                             <p><b>Sitz in Saarbrücken</b></p>
                             <h2>Beschreibung</h2>

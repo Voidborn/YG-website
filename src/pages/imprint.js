@@ -17,10 +17,10 @@ const Imprint = () => {
                     <h1 className="headingStyles">Impressum</h1>
                     <h2>KONTAKT</h2>
                     <p>
-                        Van An Nguyen<br />
-                        c/o Grosch Postflex #1586<br />
-                        Emsdettener Str. 10<br />
-                        48268 Greven<br />
+                        pentapaw studios UG (haftungsbeschränkt)<br />
+                        Halbergstraße 4<br />
+                        66121 Saarbrücken<br />
+                        <br />
                         <br />
                         E-Mail: <a href={"mailto:yarn-guardians@outlook.com"}>yarn-guardians@outlook.com</a><br />
                         Mobil: <a href="tel:+4915231778275">+49 (0)152 3177 8275</a><br />
