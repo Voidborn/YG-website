@@ -28,7 +28,7 @@ const SocialMediaText = {
 }
 
 const ConstructionCatsContainer = {
-    marginTop: "4rem"
+    marginTop: "3rem"
 }
 
 const ConstructionCatsImage = {
