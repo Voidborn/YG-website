@@ -24,7 +24,7 @@ const Slogan = {
 
 const SocialMediaText = {
     color: "white",
-    textAlign: "centered"
+    textAlign: "center"
 }
 
 const ConstructionCatsContainer = {
@@ -33,7 +33,7 @@ const ConstructionCatsContainer = {
 
 const ConstructionCatsImage = {
     maxWidth: "600px",
-    minWidth: "200px"
+    minWidth: "200px",
 }
 
 const UnderConstruction = () => {
@@ -48,7 +48,7 @@ const UnderConstruction = () => {
                     <img alt="Slogan" style={Slogan} src={sloganImg} />
                 </div>
                 <div className="rowContainer">
-                    <h2 style={SocialMediaText}>Follow us:</h2>
+                    <h2 style={SocialMediaText}>Für Neuigkeiten folgt uns auf:</h2>
                 </div>
                 <div className="rowContainer">
                     <div className="colContainer">

@@ -21,9 +21,8 @@ const Imprint = () => {
                         Halbergstraße 4<br />
                         66121 Saarbrücken<br />
                         <br />
-                        <br />
-                        E-Mail: <a href={"mailto:yarn-guardians@outlook.com"}>yarn-guardians@outlook.com</a><br />
-                        Mobil: <a href="tel:+4915231778275">+49 (0)152 3177 8275</a><br />
+                        <b>E-Mail: </b><a href={"mailto:yarn-guardians@outlook.com"}>yarn-guardians@outlook.com</a><br />
+                        <b>Mobil: </b><a href="tel:+4915231778275">+49 (0)152 3177 8275</a><br />
                         <br />
                         Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <br />
                         <a href={"http://ec.europa.eu/consumers/odr"}>http://ec.europa.eu/consumers/odr</a>

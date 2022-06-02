@@ -290,9 +290,9 @@ const DataProtection = () => {
                     <p>Zur Bewerbung unserer Produkte und Leistungen sowie zur Kommunikation mit Interessenten oder Kunden betreiben wir eine Firmenpräsenz auf der Plattform Facebook.
                         <br />Auf dieser Social-Media-Plattform sind wir gemeinsam mit der Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland, verantwortlich.
                         <br /><br />Der Datenschutzbeauftragte von Facebook kann über ein Kontaktformular erreicht werden:
-                        <br /><a href={"https://www.facebook.com/help/contact/540977946302970"}>https://www.facebook.com/help/contact/540977946302970</a>
+                        <br /><a href={"https://www.facebook.com/help/contact/540977946302970"}>Facebook Kontaktformular</a>
                         <br /><br />Die gemeinsame Verantwortlichkeit haben wir in einer Vereinbarung bezüglich der jeweiligen Verpflichtungen im Sinne der DSGVO geregelt. Diese Vereinbarung, aus der sich die gegenseitigen Verpflichtungen ergeben, ist unter dem folgenden Link abrufbar:
-                        <br /><a href={"https://www.facebook.com/legal/terms/page_controller_addendum"}>https://www.facebook.com/legal/terms/page_controller_addendum</a>
+                        <br /><a href={"https://www.facebook.com/legal/terms/page_controller_addendum"}>Facebook Rechtliche Vereinbarung</a>
                         <br /><br />Rechtsgrundlage für die dadurch erfolgende und nachfolgend wiedergegebene Verarbeitung von personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse besteht an der Analyse, der Kommunikation sowie dem Absatz und der Bewerbung unserer Produkte und Leistungen.
                         <br />Rechtsgrundlage kann auch eine Einwilligung des Nutzers gemäß Art. 6 Abs. 1 lit. a DSGVO gegenüber dem Plattformbetreiber sein. Die Einwilligung hierzu kann der Nutzer nach Art. 7 Abs. 3 DSGVO jederzeit durch eine Mitteilung an den Plattformbetreiber für die Zukunft widerrufen.
                         <br />Bei dem Aufruf unseres Onlineauftritts auf der Plattform Facebook werden von der Facebook Ireland Ltd. als Betreiberin der Plattform in der EU Daten des Nutzers (z.B. persönliche Informationen, IP-Adresse etc.) verarbeitet.
@@ -314,9 +314,9 @@ const DataProtection = () => {
                     <p>Zur Bewerbung unserer Produkte und Leistungen sowie zur Kommunikation mit Interessenten oder Kunden betreiben wir eine Firmenpräsenz auf der Plattform Instagram.
                         <br />Auf dieser Social-Media-Plattform sind wir gemeinsam mit der Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland, verantwortlich.
                         <br />Der Datenschutzbeauftragte von Instagram kann über ein Kontaktformular erreicht werden:
-                        <br /><a href={"https://www.facebook.com/help/contact/540977946302970"}>https://www.facebook.com/help/contact/540977946302970</a>
+                        <br /><a href={"https://www.facebook.com/help/contact/540977946302970"}>Facebook Kontaktformular</a>
                         <br /><br />Die gemeinsame Verantwortlichkeit haben wir in einer Vereinbarung bezüglich der jeweiligen Verpflichtungen im Sinne der DSGVO geregelt. Diese Vereinbarung, aus der sich die gegenseitigen Verpflichtungen ergeben, ist unter dem folgenden Link abrufbar:
-                        <br /><a href={"https://www.facebook.com/legal/terms/page_controller_addendum"}>https://www.facebook.com/legal/terms/page_controller_addendum</a>
+                        <br /><a href={"https://www.facebook.com/legal/terms/page_controller_addendum"}>Facebook Rechliche Vereinbarung</a>
                         <br /><br />Rechtsgrundlage für die dadurch erfolgende und nachfolgend wiedergegebene Verarbeitung von personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse besteht an der Analyse, der Kommunikation sowie dem Absatz und der Bewerbung unserer Produkte und Leistungen.
                         <br />Rechtsgrundlage kann auch eine Einwilligung des Nutzers gemäß Art. 6 Abs. 1 lit. a DSGVO gegenüber dem Plattformbetreiber sein. Die Einwilligung hierzu kann der Nutzer nach Art. 7 Abs. 3 DSGVO jederzeit durch eine Mitteilung an den Plattformbetreiber für die Zukunft widerrufen.
                         <br /><br />Bei dem Aufruf unseres Onlineauftritts auf der Plattform Instagram werden von der Facebook Ireland Ltd. als Betreiberin der Plattform in der EU Daten des Nutzers (z.B. persönliche Informationen, IP-Adresse etc.) verarbeitet.
