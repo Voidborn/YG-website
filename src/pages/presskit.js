@@ -45,14 +45,11 @@ const Presskit = () => {
                                 src={teamImage}
                             />
                             <h3>Teammitglieder (links nach rechts)</h3>
-                            <p><b>Regina Krämer: </b> Marketing & management</p>
-                            <p><b>Sabrina Döpp: </b> Storytelling & dialogue writing</p>
-                            <p><b>Vladislav Hnatovskiy: </b> Level design, environment art & sound</p>
-                            <p><b>Philip Hell: </b> Code & game design</p>
-                            <p><b>Van An Nguyen: </b> Animation & character art</p>
-
-
-
+                            <p><b>Regina: </b> Communication & management</p>
+                            <p><b>Sabrina: </b> Storytelling & dialogue</p>
+                            <p><b>Vlad: </b> Level design, UI & music</p>
+                            <p><b>Philip: </b> Programming & game design</p>
+                            <p><b>Van An: </b> Animation & character design</p>
 
                         </div>
                     </div>

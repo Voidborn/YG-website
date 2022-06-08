@@ -285,7 +285,7 @@ const DataProtection = () => {
                     <b>Twitter</b>
                     <p>Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA Datenschutzerklärung: <a href={"https://twitter.com/privacy"}>https://twitter.com/privacy</a></p>
                     <b>Instagram</b>
-                    <p>Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland, ein Tochterunternehmen der Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA. Datenschutzerklärung: <a href={"https://help.instagram.com/519522125107875"}>https://help.instagram.com/519522125107875</a></p>
+                    <p>Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland, ein Tochterunternehmen der Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA. Datenschutzerklärung: <a href={"https://help.instagram.com/519522125107875"}>https://help.instagram.com</a></p>
                     <h3>Facebook</h3>
                     <p>Zur Bewerbung unserer Produkte und Leistungen sowie zur Kommunikation mit Interessenten oder Kunden betreiben wir eine Firmenpräsenz auf der Plattform Facebook.
                         <br />Auf dieser Social-Media-Plattform sind wir gemeinsam mit der Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland, verantwortlich.
@@ -301,7 +301,7 @@ const DataProtection = () => {
                         <br />Zur Verarbeitung der Daten werden von der Facebook Ireland Ltd. ggf. auch Cookies gesetzt.
                         <br /><br />Sollte der Nutzer mit dieser Verarbeitung nicht einverstanden sein, so besteht die Möglichkeit, die Installation der Cookies durch eine entsprechende Einstellung des Browsers zu verhindern. Bereits gespeicherte Cookies können ebenfalls jederzeit gelöscht werden. Die Einstellungen hierzu sind vom jeweiligen Browser abhängig. Bei Flash-Cookies lässt sich die Verarbeitung nicht über die Einstellungen des Browsers unterbinden, sondern durch die entsprechende Einstellung des Flash-Players. Sollte der Nutzer die Installation der Cookies verhindern oder einschränken, kann dies dazu führen, dass nicht sämtliche Funktionen von Facebook vollumfänglich nutzbar sind.
                         <br />Näheres zu den Verarbeitungstätigkeiten, deren Unterbindung und zur Löschung der von Facebook verarbeiteten Daten finden sich in der Datenrichtlinie von Facebook:
-                        <br /><a href={"https://www.facebook.com/privacy/explanation"}>https://www.facebook.com/privacy/explanation</a>
+                        <br /><a href={"https://www.facebook.com/privacy/explanation"}>Facebook Datenrichtlinie</a>
                         <br /><br />Es ist nicht ausgeschlossen, dass die Verarbeitung durch die Facebook Ireland Ltd. auch über die Facebook Inc., 1601 Willow Road, Menlo Park, California 94025 in den USA erfolgt.
                     </p>
                     <h3>Twitter</h3>
@@ -325,7 +325,7 @@ const DataProtection = () => {
                         <br /><br />Zur Verarbeitung der Daten werden von der Facebook Ireland Ltd. ggf. auch Cookies gesetzt.
                         <br />Sollte der Nutzer mit dieser Verarbeitung nicht einverstanden sein, so besteht die Möglichkeit, die Installation der Cookies durch eine entsprechende Einstellung des Browsers zu verhindern. Bereits gespeicherte Cookies können ebenfalls jederzeit gelöscht werden. Die Einstellungen hierzu sind vom jeweiligen Browser abhängig. Bei Flash-Cookies lässt sich die Verarbeitung nicht über die Einstellungen des Browsers unterbinden, sondern durch die entsprechende Einstellung des Flash-Players. Sollte der Nutzer die Installation der Cookies verhindern oder einschränken, kann dies dazu führen, dass nicht sämtliche Funktionen von Facebook vollumfänglich nutzbar sind.
                         <br />Näheres zu den Verarbeitungstätigkeiten, deren Unterbindung und zur Löschung der von Instagram verarbeiteten Daten finden sich in der Datenrichtlinie von Instagram:
-                        <br /><a href={"https://help.instagram.com/519522125107875"}>https://help.instagram.com/519522125107875</a>
+                        <br /><a href={"https://help.instagram.com/519522125107875"}>https://help.instagram.com</a>
                         <br /><br />Es ist nicht ausgeschlossen, dass die Verarbeitung durch die Facebook Ireland Ltd. auch über die Facebook Inc., 1601 Willow Road, Menlo Park, California 94025 in den USA erfolgt.
                         <br />
                         <br />Quelle: <a href={"https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html"}>Muster-Datenschutzerklärung</a> der <a href={"https://www.ratgeberrecht.eu/datenschutz/datenschutzerklaerung-generator-dsgvo.html"}>Anwaltskanzlei Weiß & Partner</a></p>
